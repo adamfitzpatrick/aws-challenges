@@ -1,0 +1,13 @@
+{
+  "name": "aws-challenges",
+  "version": "1.0.0",
+  "description": "Corrected/Updated demos and code challenges for various AWS training courses",
+  "main": "index.mjs",
+  "repository": "https://github.com/adamfitzpatrick/aws-challenges.git",
+  "author": "Adam Fitzpatrick",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.1.0"
+}

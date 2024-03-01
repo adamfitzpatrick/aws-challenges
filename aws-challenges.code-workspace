@@ -1,0 +1,9 @@
+{
+    "folders": [{
+        "name": "Advanced Testing Practices Using DevOps Tools",
+        "path": "packages/advanced-testing-practices-using-devops-tools"
+    }, {
+	"name": "aws-challenges",
+	"path": "."
+    }]
+}
