@@ -1,0 +1,11 @@
+{
+  "name": "@aws-challenges/advanced-testing-practices-using-devops-tools",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.1.0",
+  "scripts": {
+    "build": "node ./lib/create-demo-archive.mjs"
+  },
+  "dependencies": {
+    "archiver": "^7.0.0"
+  }
+}
